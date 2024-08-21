@@ -1,4 +1,4 @@
-# TASK-INTERN-CAREER
+# Top YouTube Streamers Analysis
 A comprehensive analysis of the top YouTube streamers dataset.
 
 ## Table of Contents:
